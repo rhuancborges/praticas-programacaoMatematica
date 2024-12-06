@@ -19,6 +19,12 @@ Rhuan Campideli Borges - 10A - 202210075
   - Problema 1 - Relógios (problema1.ipynb): maximizar lucro obtida pela venda de relógios;
   - Problema 2 - Barris (problema2.ipynb): maximizar quanrtidade de barris transportados por dia;
   - Problema 3 - McDonalds (problema3.ipynb): minimizar custos de dieta de produtos McDonalds.
+- Desafio_ProgInt
+  - .ipynb_checkpoints: arquivos usados pelo Jupyter;
+  - instance_n=20_1.alb: instância do Problema 2 a ser importada;
+  - Modelos_Inteiros_Desafios_RhuanCBorges.ipynb: Notebook com as implementações dos modelos dos 3 problemas;
+  - p1.dat: instância do Problema 1 a ser importada;
+  - Problema1.ipynb: Noteboonk com a implementação do Problema 1, devido à necessidade de rodar o Gurobi localmente.
 
 ## Implementações futuras
 
