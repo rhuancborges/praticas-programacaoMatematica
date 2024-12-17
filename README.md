@@ -25,7 +25,10 @@ Rhuan Campideli Borges - 10A - 202210075
   - Modelos_Inteiros_Desafios_RhuanCBorges.ipynb: Notebook com as implementações dos modelos dos 3 problemas;
   - p1.dat: instância do Problema 1 a ser importada;
   - Problema1.ipynb: Noteboonk com a implementação do Problema 1, devido à necessidade de rodar o Gurobi localmente.
-
+- AP3
+  - Weakly001: arquivo de instância para a Questão 2;
+  - AP3_Questao1_RhuanCBorges.ipynb: notebook com a implementação e solução do modelo para partição de um grafo em dois conjuntos;
+  - AP3_Questao2_RhuanCBorges.ipynb: notebook com a implementação Branch&Bound para o Problema da Mochila.
 ## Implementações futuras
 
 - Amplicação da estrutura de diretórios, separados por atividade prática (AP1, AP2, AP3, AP4);
