@@ -29,6 +29,11 @@ Rhuan Campideli Borges - 10A - 202210075
   - Weakly001: arquivo de instância para a Questão 2;
   - AP3_Questao1_RhuanCBorges.ipynb: notebook com a implementação e solução do modelo para partição de um grafo em dois conjuntos;
   - AP3_Questao2_RhuanCBorges.ipynb: notebook com a implementação Branch&Bound para o Problema da Mochila.
+- AP4
+  - tbsq2.ipynb: Adicionando restrição à Tabela Simplex da Questão 2;
+  - imagem_Q2.pdf: "tbsq2.ipynb" transformado em PDF;
+  - imagem_Q2.png: "tbsq2.ipynb" transformado em PNG;
+  - Questão 3.ipynb: resolução da questão 3   
 ## Implementações futuras
 
 - Amplicação da estrutura de diretórios, separados por atividade prática (AP1, AP2, AP3, AP4);
