@@ -34,9 +34,4 @@ Rhuan Campideli Borges - 10A - 202210075
   - imagem_Q2.pdf: "tbsq2.ipynb" transformado em PDF;
   - imagem_Q2.png: "tbsq2.ipynb" transformado em PNG;
   - Questão 3.ipynb: resolução da questão 3   
-## Implementações futuras
-
-- Amplicação da estrutura de diretórios, separados por atividade prática (AP1, AP2, AP3, AP4);
-- Notebooks contendo modelagem e resolução de problemas das futuras atividades práticas.
-
 
